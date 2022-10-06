@@ -1,0 +1,17 @@
+.bg-login {
+    background: url('../assets/img/logo.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-register {
+    background: url('../assets/img/daftar.png');
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-password {
+    background: url('../assets/img/forgot\ password.png');
+    background-position: center;
+    background-size: cover;
+}
